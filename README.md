@@ -1,0 +1,1 @@
+# ss-eclipse-git
